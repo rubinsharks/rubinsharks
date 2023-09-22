@@ -1,6 +1,8 @@
 ## About Me
+[![11](https://img.shields.io/badge/Email-rubinsharks%40gmail.com-red)](mailto://rubinsharks@gmail.com)
 
-Hi, I am [@rubinsharks](https://www.github.com/rubinsharks). 👋 
+Hi, I am [@rubinsharks](https://www.github.com/rubinsharks). 👋 \
+I like develop. Thank you~
 
 ## 2023
 ### [Blog](https://blog.inforest.dev)
