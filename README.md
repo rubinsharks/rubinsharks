@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+---
+GitHub Twitter LinkedIn
+
+Hi, I am @rubinsharks. 👋 
 
 <!--
 **rubinsharks/rubinsharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
