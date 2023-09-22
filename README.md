@@ -2,24 +2,13 @@
 
 Hi, I am [@rubinsharks](https://www.github.com/rubinsharks). 👋 
 
-### Current
-- CMake, MK
-- ndk
-- Android suspend / coroutine
-- iOS async
-
 ### 2023
-- Flutter
-- Android Jetpack
-- iOS SwiftUI
-
-### 2022
-- Docker
-- Kafka
-- FastAPI
+##### [Blog](https://blog.inforest.dev)
+- AWS, Docker, MySQL
 
 ### 2021
-- 
+##### [KeyboxPlayer](https://keybox.app)
+- Android, iOS
 
 <!--
 **rubinsharks/rubinsharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
