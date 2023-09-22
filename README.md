@@ -2,13 +2,16 @@
 
 Hi, I am [@rubinsharks](https://www.github.com/rubinsharks). 👋 
 
-### 2023
-##### [Blog](https://blog.inforest.dev)
-- AWS, Docker, MySQL
+## 2023
+### [Blog](https://blog.inforest.dev)
+- AWS
+- Docker(Ghost)
+- MySQL
 
-### 2021
-##### [KeyboxPlayer](https://keybox.app)
-- Android, iOS
+## 2021
+### [KeyboxPlayer](https://keybox.app)
+- Android
+- iOS
 
 <!--
 **rubinsharks/rubinsharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
