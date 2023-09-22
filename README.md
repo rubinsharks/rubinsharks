@@ -1,8 +1,25 @@
-### About Me
----
-GitHub Twitter LinkedIn
+## About Me
 
-Hi, I am @rubinsharks. 👋 
+Hi, I am [@rubinsharks](https://www.github.com/rubinsharks). 👋 
+
+### Current
+- CMake, MK
+- ndk
+- Android suspend / coroutine
+- iOS async
+
+### 2023
+- Flutter
+- Android Jetpack
+- iOS SwiftUI
+
+### 2022
+- Docker
+- Kafka
+- FastAPI
+
+### 2021
+- 
 
 <!--
 **rubinsharks/rubinsharks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
